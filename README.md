@@ -1,5 +1,5 @@
 ## Entertainment-Hub
-![image](![image](https://i.postimg.cc/JzQL4fMp/Screenshot-2022-12-19-135148.jpg))
+![image](https://i.postimg.cc/sX5Xmn5q/Screenshot-2022-12-19-140158.jpg)
 
 ## Functionalities
 1. See latest movies,webseries
@@ -8,4 +8,4 @@
 4. Filter the movies and web series accroding to genres5.
 5. See rating, movie/web series cast, releasing date
 
-![image](![image](https://i.postimg.cc/JzQL4fMp/Screenshot-2022-12-19-135148.jpg))
+![image](https://i.postimg.cc/KjzYbm6S/Screenshot-2022-12-19-140654.jpg)
